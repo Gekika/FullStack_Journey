@@ -1,0 +1,27 @@
+I got a very good course by Angela Yu and here is what I will be covering:
+        
+    WEB DEVELOPMENTFUNDAMENTALS
+    HTML 5
+    CSS 3
+    FLEXBOX
+    GRID
+    BOOTSTRAP
+    WEB DESIGN
+    DOCUMENT OBJECT MODEL (DOM)
+    JAVASCRIPT ES6
+    REACT.JS
+    THE UNIX COMMAND LINE
+    GIT GITHUB AND VERSION CONTROL
+    NODE.JS
+    EXPRESS.JS
+    APPLICATION PROGRAM
+    INTERFACES (APIS)
+    EJS
+    DATABASE FUNDAMENTALS
+    SQL DATABASES
+    POSTGRES DATABASES
+    DEPLOYMENT
+    BUILDING RESTful APIs
+    AUTHENTICATION and SECURITY
+    
+So stay tuned for we are leaving nobody behind !!🖳🖳
