@@ -13,7 +13,7 @@ This Computers can be divided into :
     1. Server : Special computers with power and capability and are online 24/7 ready to Server
     2. Client: What we use to access the server(small computers)
 
-ISP (Internet Service Provider) - people we pay to be able to access the Internet
+ISP (Internet Service Providers) - people we pay to be able to access the Internet
 DNS (Domain Name System) - Like a large phonebook with IP Addresses
 
 All computers connected to the internet have an IP address - like a postal code that can be used to uniquely get to 
