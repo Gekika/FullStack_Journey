@@ -1,0 +1,7 @@
+********************************************************************************* PARAGRAPH ELEMENT **************************************************************************************
+
+
+The paragraph element that helps us format and put text into our 
+
+<p> I am a paragraph </p>
+
