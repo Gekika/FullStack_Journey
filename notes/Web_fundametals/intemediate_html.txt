@@ -1,0 +1,39 @@
+********************************************************************************* LIST ELEMENT**************************************************************************************
+
+
+Unordered List <ul> </ul>
+The order of items doesn't matter
+sample: 
+<ul>
+    <li> Software Engineering </li>
+    <li> Data Science </li>
+    <li> Cyber Security </li>
+
+</ul>
+
+
+Ordered List <ol> </ol>
+There is order and there are numbers
+Sample:
+<ol>
+    <li> Software Engineering </li>
+    <li> Data Science </li>
+    <li> Cyber Security </li>
+
+</ol>
+
+********************************************************************************* NESTING AND IDENTATION **************************************************************************************
+We can nest lists in lists 
+sample:
+<ul>
+    <li>Wash Clothes</li>
+    <li>Call Family
+        <ul>
+            <li> Mum </li>
+            <li> Dad </li>
+            <li> Uncle</li>
+        </ul>
+    </li>
+    <li>Go to GYM</li>
+
+</ul>
