@@ -23,6 +23,7 @@ Sample:
 </ol>
 
 ********************************************************************************* NESTING AND IDENTATION **************************************************************************************
+
 We can nest lists in lists 
 sample:
 <ul>
@@ -37,3 +38,30 @@ sample:
     <li>Go to GYM</li>
 
 </ul>
+
+********************************************************************************* ANCHOR ELEMENT **************************************************************************************
+
+Attributes
+anchor elements help us create hyperlinks
+sample: 
+Inactive :  ------ <a> This is a link </a>
+Active : ------ <a href= "http://www.This is the attribute "> This is a link </a>
+Attributes are added to the opening tag
+
+
+Attribute structure 
+
+<tag attribute_name=value> Content </tag> we can have several attributes
+
+remember the attributes are added to the opening tags...you can view about them in the html doc
+
+
+
+
+********************************************************************************* IMAGE ELEMENT **************************************************************************************
+
+lets bring some life in the websites using the image element
+sample : <img src = 'url'/>
+The two attributes popular in the image element: src and alt
+src = what is the source of the image
+Its a void element
