@@ -15,4 +15,14 @@ lacinia quis vel eros donec ac odio.
 </p>
 
 ********************************************************************************* SELF CLOSING TAGS **************************************************************************************
+sample: Non-void
 <p> I am a paragraph </p> This is not a void element because it has content between the tags
+
+Void element:
+
+<hr /> - horizotal rule element
+A void element is one that you dont put content inside the tag
+
+There are several void elemnts: 
+- <hr /> - horizontal lines along code 
+- <br /> - helps give structure like breaks in a poem 
