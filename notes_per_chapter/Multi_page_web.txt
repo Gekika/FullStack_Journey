@@ -1,0 +1,49 @@
+***************************************************************************** COMPUTER FILE PATHS**************************************************************************************
+
+We explore the Relative and absolute file paths 
+A File Path - unique location of a file or folder in the computer
+
+
+Absolute fle path - path that is relative to the root of the computer 
+sample : 1. C:/Project/Images/cat.png
+         2. /Project/Images/cat.png
+
+We direct people from the root of teh folder to the destination we want
+
+Relatibe file path - relative to another folder/ destination
+They are shorter and even when the man folder is moved around this still remains if the structure is maintained
+There are special character to help us move through using relative file paths:
+
+
+1. "../image.png" - basically means we move up a level 
+sample:
+ Root
+   |
+   |_____image2.png
+   |
+   |_____Project_Kenya
+                |
+                |
+                |____Doc.txt
+                |
+                |_____index.html
+                |
+                |_____Images 
+../image2.png - to locate/ access this (image2.png)file while we are in Project kenya
+
+
+2. "./index.html" - tells us to stay in the current directory
+Sample :
+ Root
+   |
+   |_____image2.png
+   |
+   |_____Project_Kenya
+                |
+                |
+                |____Doc.txt
+                |
+                |_____index.html
+                |
+                |_____Images 
+../index.html - will be used to acces this file while we are in _____Project_Kenya
