@@ -51,3 +51,7 @@ Sample :
 
 
 ***************************************************************************** WEB PAGES **************************************************************************************
+We can create more pages and link them through anchor tags:
+Sample: To link a contact.html file from our index.html we can write something like:
+<a href="./contact.html">Contact Us</a>
+ 
