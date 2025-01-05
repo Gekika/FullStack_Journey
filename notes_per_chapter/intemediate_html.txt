@@ -48,6 +48,8 @@ Inactive :  ------ <a> This is a link </a>
 Active : ------ <a href= "http://www.This is the attribute "> This is a link </a>
 Attributes are added to the opening tag
 
+Remember that you can have the image tag in the section you write text in an anchor tag
+
 
 Attribute structure 
 
