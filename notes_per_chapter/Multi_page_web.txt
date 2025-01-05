@@ -55,3 +55,30 @@ We can create more pages and link them through anchor tags:
 Sample: To link a contact.html file from our index.html we can write something like:
 <a href="./contact.html">Contact Us</a>
  
+***************************************************************************** THE HTML BOILERLATE **************************************************************************************
+
+The is a structure of the HTML file 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+
+<!DOCTYPE html>  - this tag tells the browser the version the html file is written in
+
+<html lang="en"> - this the html elemnt and is our root
+
+<head> - important info about our website that will help the website render correctly in the browser
+Components : 
+          - meta tag - characters encoding
+          - title - what is displayed in the tab 
+
+<body> - we create and put the content here
+
