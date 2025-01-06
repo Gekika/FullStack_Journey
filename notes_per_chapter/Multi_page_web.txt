@@ -83,3 +83,8 @@ Components :
 <body> - we create and put the content here
 
 Shortcut  - ! Enter automatically writes the boilerplate
+
+
+***************************************************************************** WEB HOSTING **************************************************************************************
+Web Hosting - making your website available anywhere from the internet
+We put all our files in a webserver
