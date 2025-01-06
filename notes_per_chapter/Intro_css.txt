@@ -1,0 +1,7 @@
+********************************************************************************* WHY DO WE NEED CSS **************************************************************************************
+Cascading Style Sheet 
+Cascading - how things flow from one level to another "rough explanation"
+Style Sheet - a language that helps / specify how things should look in a website
+There are several style sheet languages : 
+                                        SASS
+                                        LESS
