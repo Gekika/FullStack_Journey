@@ -49,4 +49,30 @@ Sample:
     </head>
  </html>       
 
- 
+ ********************************************************************************* CSS SELECTORS **************************************************************************************
+Where to apply our Css rules
+Css Selector  - part that selects the Css where the rules go in  
+
+1.      Element Selecor:
+ h1 {
+        color: Red
+ }
+
+
+ 2.     Class Selector:
+ class - something we can add to any html element as an attribute
+ grouping elements 
+.red-heading{
+        color: red  
+}
+
+3        Id Selector:
+has its own special symbol #:
+html - <h2 id="main">color me</h2>
+css - #main {
+        color: Blue
+}
+
+Difference between class and Id selectors 
+class can be assigned many elements
+id only one element per file 
