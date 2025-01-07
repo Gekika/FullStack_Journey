@@ -59,14 +59,14 @@ Css Selector  - part that selects the Css where the rules go in
  }
 
 
- 2.     Class Selector:
+2.     Class Selector:
  class - something we can add to any html element as an attribute
  grouping elements 
 .red-heading{
         color: red  
 }
 
-3        Id Selector:
+3.        Id Selector:
 has its own special symbol #:
 html - <h2 id="main">color me</h2>
 css - #main {
@@ -76,3 +76,15 @@ css - #main {
 Difference between class and Id selectors 
 class can be assigned many elements
 id only one element per file 
+
+4.      Attribute Selector:
+p[draggable]{
+        color: red
+} - this says select all the paragraph with the attribute draggable and apply cahnges
+ 
+
+
+5.       Universal Selector:
+*{
+        color: red
+}
