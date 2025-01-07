@@ -1,7 +1,52 @@
 ********************************************************************************* WHY DO WE NEED CSS **************************************************************************************
 Cascading Style Sheet 
-Cascading - how things flow from one level to another "rough explanation"
+Cascading - how things flow from one level to another "rough explanation" - like a waterfall
 Style Sheet - a language that helps / specify how things should look in a website
-There are several style sheet languages : 
+There are several style sheet languages :   
                                         SASS
+                                        CSS
                                         LESS
+
+********************************************************************************* HOW TO ADD CSS **************************************************************************************
+How we can add Css : 
+        Inline: <tag style="css"/>
+        Internal: <style>css</style>
+        External: <link href="style.css"/>
+
+1. Inline - it goes to the same line with the html element 
+Sample:
+
+<html style="background: blue">
+</html>
+
+it is added as an attribute: goes in the opening tag of the element then name of attr, then css value
+the css value / code : - is in the format "property_to_alter: value"
+
+2. Internal - through a html tag called style tag
+Has aselector and goes before the {}
+most appropriate for one page html 
+
+Sample: 
+<html>
+        <head>
+           <style>
+             html{background: red;
+             }
+           </style>
+        </head>   
+</html>
+
+3. External - complete diff file
+we link the style sheet file to the html through a link tag
+
+Sample:
+<html>
+    <head>
+       <link 
+           rel = "stylesheet" - relationship
+           href = "./style.css" - the location
+        />
+    </head>
+ </html>       
+
+ 
