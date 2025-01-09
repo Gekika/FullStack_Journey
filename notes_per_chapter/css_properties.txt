@@ -4,3 +4,6 @@ color - for text color
 
 - ColorHunt - for color palletes
 - RGB color mixer - to mix themselves
+
+
+*********************************************************************************  FONT PROPERTIES  **************************************************************************************
