@@ -7,7 +7,13 @@ color - for text color
 
 
 *********************************************************************************  FONT PROPERTIES  **************************************************************************************
-font-weight - 
+font-weight - we can have normal , bold - how the font looks like
+        normalbold
+        lighter
+        bolder
+
+fon-family - defines looks
+
 font-size - this is to change the font size, 
                     1px = 1/96th of an inch pixel
                     1pt = 1/72nd of an inch point
@@ -23,3 +29,4 @@ font-size - this is to change the font size,
                         is altered 
 
 
+*********************************************************************************  CSS INSPECTION  **************************************************************************************
