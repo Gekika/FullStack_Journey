@@ -1,0 +1,6 @@
+*********************************************************************************  CSS COLORS **************************************************************************************
+background-color: blue - property:value
+color - for text color
+
+- ColorHunt - for color palletes
+- RGB color mixer - to mix themselves
