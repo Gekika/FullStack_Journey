@@ -7,3 +7,19 @@ color - for text color
 
 
 *********************************************************************************  FONT PROPERTIES  **************************************************************************************
+font-weight - 
+font-size - this is to change the font size, 
+                    1px = 1/96th of an inch pixel
+                    1pt = 1/72nd of an inch point
+                    1em = 100% of parent width of letter M (parent tag)
+                          - moves relative to the parent tag 
+                          <footer>
+                              <h1>George</h1>
+                          </footer>
+                          in this case if in the css you set h1 to 2em when you change the footer 
+                          the h1 changes relative to it    
+                    1rem = 100% of root (html tag)
+                        but if it was set to 2rem unless the root/ main <html> tag
+                        is altered 
+
+
