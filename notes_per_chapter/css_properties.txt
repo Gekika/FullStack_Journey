@@ -30,3 +30,4 @@ font-size - this is to change the font size,
 
 
 *********************************************************************************  CSS INSPECTION  **************************************************************************************
+Css inspection - a tool to help us debug our css and know what its doing
