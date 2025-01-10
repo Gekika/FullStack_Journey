@@ -31,3 +31,16 @@ font-size - this is to change the font size,
 
 *********************************************************************************  CSS INSPECTION  **************************************************************************************
 Css inspection - a tool to help us debug our css and know what its doing
+You can get this from the inspect after right clicking
+
+
+*********************************************************************************  CSS BOX MODEL   **************************************************************************************
+Model -
+
+Margin - outside the border and any outher content 
+
+Padding - mostly when there is contet within a box. creates space around/ between 
+the element and the border
+
+Border - this is what goes around a box, like a frame and it can take upto 3
+values sample: border: 10px solid blue; , thickness, style, color;
