@@ -35,7 +35,6 @@ You can get this from the inspect after right clicking
 
 
 *********************************************************************************  CSS BOX MODEL   **************************************************************************************
-Model -
 
 Margin - outside the border and any outher content 
 
