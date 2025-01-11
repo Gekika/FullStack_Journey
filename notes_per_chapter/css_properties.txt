@@ -43,6 +43,8 @@ the element and the border
 
 Border - this is what goes around a box, like a frame and it can take upto 3
 values sample: border: 10px solid blue; , thickness, style, color;
+sample : border: 10px solid blue:
+         border-width: 0px 10px 20px 20px; 1234 in a clockwise direction of a box
 
 to help us create our imaginary boxes in the website we are creating we use the content divison element
 <div></div> and they are invisible boxes that can contain content between boxes
