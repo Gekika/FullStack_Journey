@@ -43,3 +43,8 @@ the element and the border
 
 Border - this is what goes around a box, like a frame and it can take upto 3
 values sample: border: 10px solid blue; , thickness, style, color;
+
+to help us create our imaginary boxes in the website we are creating we use the content divison element
+<div></div> and they are invisible boxes that can contain content between boxes
+ <div>content 1</div>
+  <div>content 2</div>
