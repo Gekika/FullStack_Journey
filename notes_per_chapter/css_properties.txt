@@ -48,3 +48,5 @@ to help us create our imaginary boxes in the website we are creating we use the 
 <div></div> and they are invisible boxes that can contain content between boxes
  <div>content 1</div>
   <div>content 2</div>
+this elements really help us group our work to our liking
+Pesticide chrome extension help us debug and also see the div elements
