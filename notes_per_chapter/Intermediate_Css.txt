@@ -22,8 +22,17 @@ Sample:
 
 2. Specificity:
 How specific is the slector
+ID Selector is the most specific and the code below the color would be orange
 Sample: 
         li{color: blue;}
         .first-class{ color:red;}
         li[draggable] {color: purple;}
         #first-id {color:orange;}
+
+3. Type:
+External <link rel="stylesheet" href="./stylesheet.css">
+Internal <style> h1{color: blue}</style>
+inline <h1 style = "color:red"></h1>
+inline is the one with most priority
+
+
