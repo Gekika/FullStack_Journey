@@ -1,3 +1,29 @@
 *********************************************************************************  THE CASCADE   **************************************************************************************
 Say we have different Css rules pinting to one element here is where the cascading decides 
 which rulles get applied matters heirachy 
+The order of importance is what matters 
+The one latest on the cascade is what appears
+ In a CSS file this is teh order of application:
+            - External css
+            - Internal Css
+            - inline Css
+
+
+The rules that apply are in relation to this 4 rules:
+
+1. Position:
+The position matters the lower the rule the higher the priority
+Sample: 
+        li{
+            color: red;
+            color: blue;
+           }
+           here blue will be applied
+
+2. Specificity:
+How specific is the slector
+Sample: 
+        li{color: blue;}
+        .first-class{ color:red;}
+        li[draggable] {color: purple;}
+        #first-id {color:orange;}
