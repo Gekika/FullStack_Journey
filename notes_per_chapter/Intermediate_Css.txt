@@ -1,0 +1,3 @@
+*********************************************************************************  THE CASCADE   **************************************************************************************
+Say we have different Css rules pinting to one element here is where the cascading decides 
+which rulles get applied matters heirachy 
