@@ -87,3 +87,31 @@ selector  selector {
         color: firebrick;
 }
 Descendant = Apply to a descendant of leftside
+
+<h2>Monday</h2>
+  <div class="box">
+    <p class="done">Do these things today!</p>
+    <ul class="list">
+      <li>Wash Clothes</li>
+      <li class="done">Read</li>
+      <li class="done">Maths Questions</li>
+    </ul>
+  </div>
+
+  <ul>
+
+  Sample: note here how we can style this list elements since they 
+  are descendants of the div we can write css to do this :
+        .box li {
+                color:blue;
+        }
+
+
+ 4. Chaining
+ selectorselector {
+        color: green;
+ }       
+ Chaining = Apply where all selectors are true
+ we use it to be very very specific
+ getting super super specific
+ remember to always start with the element 1st 
