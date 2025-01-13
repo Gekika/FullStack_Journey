@@ -1,0 +1,11 @@
+/* Write your code here: */
+
+/* seeing the group , */
+h1 ,h2 {
+    color: blueviolet;
+}
+
+/* Parent/ child method */
+.box > p {
+    color: firebrick;
+}
