@@ -41,3 +41,49 @@ we can use the "!important"
 color:red;
 color: green !important;
 green will be displayed
+
+*********************************************************************************  COMBINING CSS SELECTORS  **************************************************************************************
+We can combine different selectors to help ease / reduce the css code 
+or target specific elements
+example:
+
+<p>Yellow Text </p>
+<div class="box inner-box">
+      <p>Yellow Text </p>
+</div>
+
+CSS:
+p{
+  color:yello;      
+}
+
+.inner-box p {
+        color:white;
+}
+
+
+
+note how we combine the selectors to help us reach and change the 
+color to white 
+
+We can combine css using
+1. Group
+        selector, selector {
+                color:blueviolet;
+        }
+
+
+
+2. Child and we use the > symbol to show the child /parent
+"Parent"   "child"
+selector > selector {
+        color: firebrick;
+}
+
+
+3. Descendant 
+"ancestor"   "descendant"
+selector  selector {
+        color: firebrick;
+}
+Descendant = Apply to a descendant of leftside
