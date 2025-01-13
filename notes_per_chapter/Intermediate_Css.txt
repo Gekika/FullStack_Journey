@@ -36,3 +36,8 @@ inline <h1 style = "color:red"></h1>
 inline is the one with most priority
 
 
+4. importance
+we can use the "!important"
+color:red;
+color: green !important;
+green will be displayed
