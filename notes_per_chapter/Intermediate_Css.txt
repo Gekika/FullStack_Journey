@@ -115,3 +115,40 @@ Descendant = Apply to a descendant of leftside
  we use it to be very very specific
  getting super super specific
  remember to always start with the element 1st 
+
+
+
+ Combining Combiners
+
+ selector selectorselector {
+        font-size: 2rem;
+ }
+
+
+
+ ********************************************************************************* CSS POSITIONING **************************************************************************************
+Positioning of elements on screen
+
+Relative
+Absolute
+Fixed
+Static
+
+1. Static Positioning 
+        - HTML default flow
+Each item flows as they should \|/
+
+
+2. Relative Positioning
+takes the static position then can be adjusted
+Relative to the original position
+
+3. Absolute Positioning
+Position Relative to nearest positioned anscestor or top left corner of webpage
+if there are no ancestor it moves to the top left 
+Z-index: - Determines which elements go ontop of each other "Z -axis"
+the higher the z-index the one on top -  to push it behind - z-index
+
+4. Fixed Positioning
+Position relative to top leftcorner of browser window
+stays fixed  on the webpage even when scrolling while in absolute it moves with the website
