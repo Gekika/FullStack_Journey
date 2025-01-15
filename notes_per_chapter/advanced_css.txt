@@ -1,0 +1,17 @@
+*********************************************************************************  CSS DISPLAY   **************************************************************************************
+display property
+We introduce the span element
+<span></span>
+by default span has the display value set to inline
+Sample: 
+    <h2> Look </h2>
+    <h2> We are talking about display </h2>
+now this by default will have two lines in a webpage but to make this one line 
+we use this css function 
+h2{
+    display: inline;
+}
+this will make everthing get into one line and that is what the "span" element has
+block - entire screen width
+inline - until where content first
+inline-block - we can adjust height and width
