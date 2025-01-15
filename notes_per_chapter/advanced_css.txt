@@ -15,3 +15,29 @@ this will make everthing get into one line and that is what the "span" element h
 block - entire screen width
 inline - until where content first
 inline-block - we can adjust height and width
+
+
+********************************************************************************* CSS FLOAT    ***************************************************************************************
+
+The float property helps us have style text and image so that they can wrap
+around an image
+sample:
+         <img ..../>
+         <p>text .....</p>
+
+now the css to help us have the image blend in the text 
+img {
+    float: left;
+}
+
+Incase we have like a footer and we want to have it covering the whole width below
+and we have used float above it we can use the clear css property to remove any styling 
+in this case 
+<footer> Copyright gekika</footer>
+
+footer{
+    clear: left: -remove things on left
+    clear: right: -remove things on right
+    clear: both: -remove things on both left and right
+
+}
