@@ -41,3 +41,18 @@ footer{
     clear: both: - remove things on both left and right
 
 }
+
+
+********************************************************************************* HOW TO CREATE RESPONSIVE WEBSITES ***************************************************************************************
+ Respond to the screen size
+1. Media Queries
+2. Css Grid
+3. CSS Flexbox
+4. External Frameworks eg.Bootstrap
+
+Media Query
+Something we type instead of the css selector
+Sample:
+    @media (max-width: 600px) {
+     /*css for screens below or equal to 600px wide*/
+    }
