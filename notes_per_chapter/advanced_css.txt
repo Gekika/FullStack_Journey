@@ -36,8 +36,8 @@ in this case
 <footer> Copyright gekika</footer>
 
 footer{
-    clear: left: -remove things on left
-    clear: right: -remove things on right
-    clear: both: -remove things on both left and right
+    clear: left: - remove things on left
+    clear: right: - remove things on right
+    clear: both: - remove things on both left and right
 
 }
