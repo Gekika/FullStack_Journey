@@ -34,6 +34,9 @@ by default flex-direction is by row
 
  if we set flex-direction to column things get arranged top to bottom 
 
-flex-basis - more of setting the height in the flex-direction:column
+
 flex-basis - more of setting the width in the flex-direction:row
 
+flex-basis - more of setting the height in the flex-direction:column
+
+remember flex-basis is not intended for the parent class but individual/children
