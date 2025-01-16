@@ -93,3 +93,13 @@ the css would look like this:
 
 Bootstrap Framework
 12 divison system
+
+********************************************************************************* MEDIA QUERY ***************************************************************************************
+
+@name     breakpoint
+@media (max-width: 600px ) {
+    h1 {
+        font-size: 15px;
+    }
+}
+you can use and to combine the breakpoints
