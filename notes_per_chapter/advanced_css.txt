@@ -56,3 +56,40 @@ Sample:
     @media (max-width: 600px) {
      /*css for screens below or equal to 600px wide*/
     }
+
+
+CSS Grid (2D)
+We set the display to grid
+Say we want to create a grid of 5 squares we can vreate using
+<div class ="grid-container">
+    <div class ="firstcard"></div>
+    <div class ="card"></div>
+    <div class ="card"></div>
+    <div class ="card"></div>
+    <div class ="card"></div>
+</div>
+
+the css would look like this:
+.grid-container {
+    display:grid;
+
+}
+
+
+CSS Flexbox (1D)
+how you want a layout horizontally
+<div class ="grid-container">
+    <div class ="firstcard"></div>
+    <div class ="card"></div>
+    <div class ="card"></div>
+    <div class ="card"></div>
+    <div class ="card"></div>
+</div>
+
+the css would look like this:
+.grid-container {
+    display:flex;
+    }
+
+Bootstrap Framework
+12 divison system
