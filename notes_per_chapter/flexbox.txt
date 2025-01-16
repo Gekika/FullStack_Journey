@@ -1,0 +1,39 @@
+*********************************************************************************  FLEXBOX   **************************************************************************************
+ We learn about Flexbox
+ Tabular data  we use table in html
+ flexbox could be used for overall page structure
+
+ Sample:
+ all you have to do is create a div and put your content
+ <div class="container">
+    <div class= "one"><p>.......</p></div>
+    <div class= "two"><p>.......</p></div>
+    <div class= "three"><p>.......</p></div>
+ </div>
+
+ in the css target the div 
+ .container {
+    display: flex;
+    gap: 10px
+ }
+ when using flexbox content is aligned inline and flexbox ignores everything 
+ like inline , block etc...........
+
+ display to inline-flex - occupies only space that it needs 
+
+
+ ********************************************************************************* FLEX DIRECTION   **************************************************************************************
+In Flexbox things go from left to right
+by default flex-direction is by row
+ 
+
+ main axis
+ ---------->
+ if we set the flex-direction to row things arrange themselves horizontally following the main axis
+
+
+ if we set flex-direction to column things get arranged top to bottom 
+
+flex-basis - more of setting the height in the flex-direction:column
+flex-basis - more of setting the width in the flex-direction:row
+
