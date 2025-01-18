@@ -40,3 +40,23 @@ flex-basis - more of setting the width in the flex-direction:row
 flex-basis - more of setting the height in the flex-direction:column
 
 remember flex-basis is not intended for the parent class but individual/children
+
+
+ ********************************************************************************* FLEX LAYOUT   **************************************************************************************
+Keep in mind about the parent and child in flexbox
+
+Order - order of the child. by default order: 0;
+if  set a number in the order the highest one becomes the 1st one on the right
+
+flex-wrap - flex-wrap: nowrap; - this is the default behaviour and will contnue to be pushed off the page
+flexwrap: wrap; - will bring content to the next line 
+ justify-content: flex-start - ususlly on the parent class - sets the distribution things are bunched to the left
+ flex-end - bunches up on the right
+ justify-content: center
+
+ justify-content: space-between
+
+
+align-item: flex-start - setting the distribution of items in column axis
+
+now for the children - we can target each one with align-self
