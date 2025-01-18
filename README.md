@@ -1,9 +1,9 @@
 I got a very good course by Angela Yu and here is what I will be covering:
         
-    WEB DEVELOPMENTFUNDAMENTALS
-    HTML 5
-    CSS 3
-    FLEXBOX
+    WEB DEVELOPMENTFUNDAMENTALS 🗸
+    HTML 5 🗸
+    CSS 3 🗸
+    FLEXBOX 🗸
     GRID
     BOOTSTRAP
     WEB DESIGN
