@@ -58,5 +58,17 @@ flexwrap: wrap; - will bring content to the next line
 
 
 align-item: flex-start - setting the distribution of items in column axis
+remember to set the height 1st 
+align-item: flex-start
+height 70vh;
 
 now for the children - we can target each one with align-self
+to get the children individually we use 
+align-self: center;
+
+
+align-content oly works when you have set flrex-wrap to wrap
+
+flex-wrap: wrap;
+align-content: center;
+height: 70vh;
