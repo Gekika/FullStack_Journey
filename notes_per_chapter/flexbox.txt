@@ -62,12 +62,12 @@ remember to set the height 1st
 align-item: flex-start
 height 70vh;
 
-now for the children - we can target each one with align-self
+now for the children - we can target each one with align-self -each individual in a div
 to get the children individually we use 
 align-self: center;
 
 
-align-content oly works when you have set flrex-wrap to wrap
+align-content only works when you have set flex-wrap to wrap
 
 flex-wrap: wrap;
 align-content: center;
