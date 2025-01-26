@@ -79,4 +79,5 @@ height: 70vh;
 how to size elements in a flexbox container(shrinking and growing)
 paragraph elements by default are blocks
 sizing uses the folowing criteria to size items say pargraphs
-Content width < Width <flex-basis < min-width /max-width
+Content width < Width <flex-basis < min-width /max-width -  this is checked from right to left 
+
