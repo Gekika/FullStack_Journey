@@ -1,5 +1,5 @@
 *********************************************************************************  FLEXBOX   **************************************************************************************
- One thing to note concerning flexbox is that it is used to mainly align items either horizonatly (Main axis)
+ One thing to note concerning flexbox is that it is used to mainly align items either horizonatly (Main axis) or vertically on the cross axis 
  
  
  We learn about Flexbox
