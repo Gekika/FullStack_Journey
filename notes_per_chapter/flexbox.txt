@@ -1,4 +1,7 @@
 *********************************************************************************  FLEXBOX   **************************************************************************************
+ One thing to note concerning flexbox is that it is used to mainly align items either horizonatly (Main axis)
+ 
+ 
  We learn about Flexbox
  Tabular data  we use table in html
  flexbox could be used for overall page structure
