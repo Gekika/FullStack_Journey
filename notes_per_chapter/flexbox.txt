@@ -31,7 +31,11 @@ by default flex-direction is by row
  ---------->
  if we set the flex-direction to row things arrange themselves horizontally following the main axis
 
+   |
+   |
+  \|/
 
+  cross axis
  if we set flex-direction to column things get arranged top to bottom 
 
 
