@@ -1,0 +1,39 @@
+ ********************************************************************************* DISPLAY GRID   **************************************************************************************
+So after learning flexbox and weve seen how thing can get arranged in a horizontal manner we look at CssGrid
+Say we want to create a very complex structure  like divide our site into multiple sections
+
+|--------------------------------------------------------------|
+|                                                              |
+|                                                              |
+|                                                              |
+|----------------------------|----------------------------------|                                                              |
+|                            |                                                              |
+|                            |                                                              |
+|                            |                                                             |
+|--------------------------------------------------------------|                                                              |
+|                                                              |
+---------------------------------------------------------------
+
+say something like this ...it would be very difficult to attain this using flexbox and css Grid comes to our rescue
+The difference between flexbox and CssGrid
+Flexbox
+helps align contet along one dimensional line
+
+
+Grid 
+A tool for laying out content on a 2D 
+We will combine this two tools to create good sites 
+We can have Flexbox+grid or grid + flexbox
+
+Grid -  Naturally grid will try to fit into a grid and they line up with each other 
+Just like how we used flexbox in grid the display will be in grid
+
+.container{
+    display:grid;
+    grid-template-columns: 1fr 2fr;
+    grid-template-rows: 1fr 1fr;
+    gap:10px;
+}
+remeber that content will try fit in teh  width / provided space
+ ********************************************************************************* GRID SIZING   **************************************************************************************
+ 
