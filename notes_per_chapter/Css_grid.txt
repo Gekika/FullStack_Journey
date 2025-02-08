@@ -61,5 +61,6 @@ sample :
 .grid-container {
     display: grid;
     grid-template-rows: 100px auto;
-    
+    grid-template-columns: 200px auto 
 }
+and here the rows will try to fit 100 percent of the horizontal space
