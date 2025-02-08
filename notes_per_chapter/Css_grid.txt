@@ -58,4 +58,8 @@ to reduce the code we could combine them to one :
 
 We can use the auto which gives us a little of the responsiveness 
 sample : 
-.grid-container
+.grid-container {
+    display: grid;
+    grid-template-rows: 100px auto;
+    
+}
