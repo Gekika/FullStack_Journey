@@ -64,3 +64,4 @@ sample :
     grid-template-columns: 200px auto 
 }
 and here the rows will try to fit 100 percent of the horizontal space
+but note how in the columns if the size is set to auto it tries and fits the content size
