@@ -46,5 +46,16 @@ the target css could be as follows :
     grid-template-rows: 100px 200px;
     grid-template-column: 400px 800px;
 
+}...............now this creates some really cool grid lines and stuff but 
+remember they will not be responsive to the screen size 
+to reduce the code we could combine them to one :
 
+.grid-conatiner {
+    display: grid;
+    grid-template: 100px 200px / 400px 800px;
+                     rows         columns
 }
+
+We can use the auto which gives us a little of the responsiveness 
+sample : 
+.grid-container
