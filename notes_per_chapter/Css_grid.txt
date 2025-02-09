@@ -36,4 +36,22 @@ Just like how we used flexbox in grid the display will be in grid
 }
 remeber that content will try fit in teh  width / provided space
  ********************************************************************************* GRID SIZING   **************************************************************************************
- 
+ it is really important to know how to size or columns and rows correctly
+  example after we have a div 
+  <div class="grid-container">
+    <div class="grid-item">1<div>........and so on ...
+the target css could be as follows :
+.grid-container {
+    display: grid;
+    grid-template-rows: 100px 200px;
+    grid-template-column: 400px 800px;
+
+}...............now this creates some really cool grid lines and stuff but 
+remember they will not be responsive to the screen size 
+to reduce the code we could combine them to one :
+
+.grid-conatiner {
+    display: grid;
+    grid-template: 100px 200px / 400px 800px;
+                     rows         columns
+}
